@@ -15,6 +15,6 @@ panels_data:
 ---
 Biking2Paradise Presents: From a day on our bikes running into lots of [traffic jams][1]: http://www.youtube.com/watch?v=PdM1OMZMogw&feature=plcp http://www.youtube.com/watch?v=LLTJw15Os48&feature=plcp From our trip to [Emeishan][2]: http://www.youtube.com/watch?v=_JOafm5PdSQ&feature=plcp From our trip to [Chengdu][3]: http://www.youtube.com/watch?v=dmVqW2owXZI&feature=plcp  
 
- [1]: http://localhost/biking2paradise.com/2012/11/29/an-auspicious-day/ "An Auspicious Day – Updated with Video"
- [2]: http://localhost/biking2paradise.com/2012/11/28/bad-bad-emeishan/ "Bad Scam Emeishan – Updated with Video"
- [3]: http://localhost/biking2paradise.com/2012/11/20/chengdu-fun-with-pandas/ "Chengdu – Fun with Pandas"
+ [1]: http://biking2paradise.com/2012/11/29/an-auspicious-day/ "An Auspicious Day – Updated with Video"
+ [2]: http://biking2paradise.com/2012/11/28/bad-bad-emeishan/ "Bad Scam Emeishan – Updated with Video"
+ [3]: http://biking2paradise.com/2012/11/20/chengdu-fun-with-pandas/ "Chengdu – Fun with Pandas"
